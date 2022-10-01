@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "weather-alert",
+    "slug": "weather-alert",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "weather-alert"
+}
